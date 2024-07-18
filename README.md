@@ -2,7 +2,7 @@
 Az app react-ban kiszült
 
 (Node.js használata - kritérium feltétel)
-### Miután ki lett csomagolva a kapott mappa:
+### Miután kilett csomagolva a kapott mappa:
 >cd 'mappa elérési helye'
 
 >npm install
